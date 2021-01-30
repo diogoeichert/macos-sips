@@ -1,0 +1,35 @@
+{
+	"name": "macos-sips",
+	"version": "1.0.0",
+	"description": "wrapper for the macOS scriptable image processing system",
+	"main": "index.js",
+	"scripts": {
+		"funding": "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=diogoeichert%40icloud.com&item_name=macos-sips&currency_code=EUR",
+		"test": "eslint --fix ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/diogoeichert/macos-sips.git"
+	},
+	"keywords": [
+		"icns",
+		"icon",
+		"image",
+		"macos",
+		"processing",
+		"scriptable",
+		"sips",
+		"system",
+		"wrapper"
+	],
+	"author": "Diogo Eichert",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/diogoeichert/macos-sips/issues"
+	},
+	"homepage": "https://github.com/diogoeichert/macos-sips#readme",
+	"devDependencies": {
+		"eslint": "^7.19.0",
+		"eslint-config-classic": "^0.1.1"
+	}
+}
