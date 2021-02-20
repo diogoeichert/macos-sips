@@ -1,6 +1,6 @@
 {
 	"name": "macos-sips",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "wrapper for the macOS scriptable image processing system",
 	"main": "index.js",
 	"scripts": {
